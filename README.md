@@ -30,8 +30,8 @@ python train.py \
 --max-steps=-1 \
 --lr=5e-4 \
 --logging-steps=30 \
---train-data-dir=datasets/example.json \
---save-dir=qwen3_4b_lora
+--train-data-dir="datasets/example.json" \
+--save-dir="qwen3_4b_lora"
 ```
 
 ## 🚀 Running inference
