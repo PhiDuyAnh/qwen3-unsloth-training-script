@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+unsloth_*
+lora
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
