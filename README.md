@@ -36,7 +36,7 @@ python train.py \
 
 ## 🚀 Running inference
 
-You can run inference and chat with your models both before and after training. Input your saved model/LoRA directory for the `--model-name` argunment.
+You can run inference and chat with your models both before and after training. Input your saved model/LoRA directory for the `--model-name` argument.
 
 Example:
 ```bash
